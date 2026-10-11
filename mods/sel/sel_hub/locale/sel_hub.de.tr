@@ -1,0 +1,21 @@
+# textdomain: sel_hub
+Start Marker=Startfeld
+Place Marker=Baufeld
+Landing Marker=Landefeld
+Together Plate=Gemeinsam-Platte
+Finish Crystal=Zielkristall
+Shiny Block=Glitzerblock
+[all | <name>]=[all | <Name>]
+Teleport to the Hub (yourself, everyone, or one player)=Zum Treffpunkt teleportieren (dich selbst, alle oder ein Kind)
+Everyone is at the Hub.=Alle sind am Treffpunkt.
+Player @1 is not online.=@1 ist nicht online.
+@1 is at the Hub.=@1 ist am Treffpunkt.
+Show the tutorial progress of all players=Tutorial-Fortschritt aller Kinder anzeigen
+Tutorial progress (# = station done):=Tutorial-Fortschritt (# = Station geschafft):
+<name> | all=<Name> | all
+Start the tutorial again for a player (or everyone)=Tutorial für ein Kind (oder alle) neu starten
+Tutorial reset for everyone.=Tutorial für alle zurückgesetzt.
+Tutorial reset for @1.=Tutorial für @1 zurückgesetzt.
+Rebuild the Hub and the tutorial course=Treffpunkt und Tutorial-Parcours neu bauen
+The Hub has been rebuilt.=Der Treffpunkt wurde neu gebaut.
+Rebuilding the Hub ...=Treffpunkt wird neu gebaut ...

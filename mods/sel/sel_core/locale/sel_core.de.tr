@@ -1,0 +1,24 @@
+# textdomain: sel_core
+Teacher of SEL Island: may use /sel commands and build anywhere=Lehrkraft auf der SEL-Insel: darf /sel-Befehle nutzen und überall bauen
+Builder's Tool=Bauwerkzeug
+Teacher's Wand (removes any block)=Zauberstab der Lehrkraft (entfernt jeden Block)
+Shield Glass (unbreakable)=Schutzglas (unzerbrechlich)
+<name> | all=<Name> | all
+Give the Builder's Tool to a player (or everyone)=Einem Kind (oder allen) das Bauwerkzeug geben
+Player @1 is not online.=@1 ist nicht online.
+Builder's Tools handed out.=Bauwerkzeuge verteilt.
+Get the Teacher's Wand=Den Zauberstab der Lehrkraft bekommen
+<site> [all | <name>]=<Ort> [all | <Name>]
+Teleport to an activity site (yourself, everyone, or one player)=Zu einem Aktivitäts-Ort teleportieren (dich, alle oder ein Kind)
+Sites: @1=Orte: @1
+Switch child mode on/off (play exactly like a child)=Kindermodus ein/aus (genau wie ein Kind spielen)
+Child mode ON: you now play like a child. Type /sel child again to switch back.=Kindermodus EIN: Du spielst jetzt wie ein Kind. Mit /sel child schaltest du zurück.
+Child mode OFF: you are the teacher again.=Kindermodus AUS: Du bist wieder die Lehrkraft.
+Child mode is ON. Type /sel child to switch it off.=Der Kindermodus ist EIN. Mit /sel child schaltest du ihn aus.
+<command> [...]=<Befehl> [...]
+SEL Island teacher commands. Type /sel to list them.=Lehrkraft-Befehle der SEL-Insel. /sel zeigt alle an.
+You are not allowed to use this command.=Du darfst diesen Befehl nicht verwenden.
+Teacher commands:=Lehrkraft-Befehle:
+Rebuild the fence around the story area=Den Zaun um das Geschichten-Gebiet neu bauen
+The fence has been rebuilt.=Der Zaun wurde neu gebaut.
+Rebuilding the fence ...=Zaun wird neu gebaut ...

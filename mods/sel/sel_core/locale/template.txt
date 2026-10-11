@@ -1,0 +1,21 @@
+# textdomain: sel_core
+Teacher of SEL Island: may use /sel commands and build anywhere=
+Builder's Tool=
+Teacher's Wand (removes any block)=
+Shield Glass (unbreakable)=
+<name> | all=
+Give the Builder's Tool to a player (or everyone)=
+Player @1 is not online.=
+Builder's Tools handed out.=
+Get the Teacher's Wand=
+<site> [all | <name>]=
+Teleport to an activity site (yourself, everyone, or one player)=
+Sites: @1=
+Switch child mode on/off (play exactly like a child)=
+Child mode ON: you now play like a child. Type /sel child again to switch back.=
+Child mode OFF: you are the teacher again.=
+Child mode is ON. Type /sel child to switch it off.=
+<command> [...]=
+SEL Island teacher commands. Type /sel to list them.=
+You are not allowed to use this command.=
+Teacher commands:=

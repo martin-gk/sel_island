@@ -1,0 +1,15 @@
+# textdomain: sel_village
+Gemstone=
+Gemstone Deposit=
+Decision Stone=
+Gold Pedestal (decorate the village)=
+Blue Pedestal (finish the bridge)=
+Gold Gem Lamp=
+Teal Gem Lamp=
+Pink Gem Lamp=
+Bridge Plank=
+Village Decision: clean up and start again=
+The Village Decision is ready for the next group.=
+Rebuild the village=
+The village has been rebuilt.=
+Rebuilding the village ...=

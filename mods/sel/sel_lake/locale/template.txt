@@ -1,0 +1,11 @@
+# textdomain: sel_lake
+Wood Crate=
+Stone Crate=
+Glass Crate=
+Garden Crate=
+Launch Platform=
+Rebuild the Lake Crossing site=
+The Lake Crossing site has been rebuilt.=
+Rebuilding the Lake Crossing site ...=
+Lake Crossing: clean up and start again with new roles=
+The Lake Crossing is ready for the next group.=

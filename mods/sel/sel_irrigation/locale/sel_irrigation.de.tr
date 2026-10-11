@@ -1,0 +1,12 @@
+# textdomain: sel_irrigation
+Channel Block=Kanalblock
+Pump Station=Pumpstation
+Water Source=Wasserquelle
+Dry Garden Bed=Trockenes Gartenbeet
+Watered Garden Bed=Bewässertes Gartenbeet
+Irrigation Channel: clean up and start again with new kits=Bewässerungskanal: aufräumen und mit neuen Bausätzen neu starten
+The Irrigation Channel is ready for the next group.=Der Bewässerungskanal ist bereit für die nächste Gruppe.
+Rebuild the Irrigation Channel site=Den Ort des Bewässerungskanals neu bauen
+The Irrigation Channel site has been rebuilt.=Der Ort des Bewässerungskanals wurde neu gebaut.
+Rebuilding the Irrigation Channel site ...=Ort des Bewässerungskanals wird neu gebaut ...
+Spare Channel Blocks=Ersatz-Kanalblöcke

@@ -1,0 +1,11 @@
+# textdomain: sel_irrigation
+Channel Block=
+Pump Station=
+Water Source=
+Dry Garden Bed=
+Watered Garden Bed=
+Irrigation Channel: clean up and start again with new kits=
+The Irrigation Channel is ready for the next group.=
+Rebuild the Irrigation Channel site=
+The Irrigation Channel site has been rebuilt.=
+Rebuilding the Irrigation Channel site ...=

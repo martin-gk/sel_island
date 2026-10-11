@@ -1,0 +1,9 @@
+# textdomain: sel_flower
+Breathing Flower=
+Get a Breathing Flower to place=
+Place the flower with a right click. Dig it to remove it.=
+Calm Grass=
+[<name>]=
+Bring a player (or yourself) to the nearest Breathing Flower=
+Player @1 is not online.=
+There is no Breathing Flower in the world yet.=
